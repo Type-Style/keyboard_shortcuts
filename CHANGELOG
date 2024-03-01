@@ -1,6 +1,14 @@
 CHANGELOG keyboard_shortcuts
 ============================
 
+RELEASE 3.2
+
+- added: French translation
+- added: "F3" to locate folder
+- added: "F4" to create folder (from selected message with prebuit context)
+- added: "F5" to copy message(s) to folder (with search dialog)
+- added: "F6" to move message(s) to folder (with search dialog)
+
 RELEASE 3.1
 
 - added: Bulgarian translation
