@@ -39,8 +39,6 @@ $(function ()
 		if (rcmail.env.action == 'compose' || rcmail.env.task == 'login' || e.ctrlKey || e.metaKey)
 			return true
 
-		console.log('SHIFT : ' + e.shiftKey)
-		console.log('KEYCODE : ' + e.keyCode)
 		//BOITE DE RECEPTION
 		if (rcmail.env.action == '')
 		{
