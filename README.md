@@ -1,3 +1,5 @@
+Based on : https://github.com/corbosman/keyboard_shortcuts
+
 keyboard_shortcuts
 ==================
 
@@ -10,9 +12,9 @@ This project has moved from Google Code to git. Older version are available at [
 
 CONTACT
 -------
-Author:   Cor Bosman (cor@roundcu.be)
+Author:   Cor Bosman (info@cybertron.fr)
 
-Bug reports through github (https://github.com/corbosman/keyboard_shortcuts/issues)
+Bug reports through github (https://github.com/metallianfr68/keyboard_shortcuts/issues)
 
 LICENSE
 -------
