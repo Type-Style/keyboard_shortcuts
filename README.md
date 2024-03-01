@@ -1,3 +1,5 @@
+ROUNDCUBE PLUGIN
+
 Based on : https://github.com/corbosman/keyboard_shortcuts
 
 keyboard_shortcuts
@@ -5,16 +7,13 @@ keyboard_shortcuts
 
 keyboard_shortcuts allows some functionality to be handled with the keyboard. It adds an icon to the mail screen to view all available shortcuts. 
 
-OLD VERSIONS
-------------
-
-This project has moved from Google Code to git. Older version are available at [Google Code](http://code.google.com/p/roundcube-plugins/downloads/list). This git repository is only for roundcube versions 0.8 and higher.
 
 CONTACT
 -------
-Author:   Cor Bosman (info@cybertron.fr)
+Author: Lionel VEST (info@cybertron.fr)
 
 Bug reports through github (https://github.com/metallianfr68/keyboard_shortcuts/issues)
+
 
 LICENSE
 -------
