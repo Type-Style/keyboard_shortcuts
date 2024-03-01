@@ -9,4 +9,9 @@ $labels['markallvisiblemessagesasread'] = 'Mark all visible messages as read';
 $labels['markselected'] = 'Mark selected message(s) as read or unread';
 $labels['title'] = 'Shortcuts';
 
+$labels['locate_folder_with_dialog'] = 'Locate folder (with dialog)';
+$labels['create_folder_contextual'] = 'Create folder (with dialog)';
+$labels['message_copy_contextual'] = 'Copy message(s) to folder (with dialog)';
+$labels['message_move_contextual'] = 'Move message(s) to folder (with dialog)';
+
 ?>
