@@ -15,6 +15,10 @@
 /**
  * Shortcuts, list view:
  * ?:	Show shortcut help
+ * F3	Locate folder
+ * F4	Create folder (contextual)
+ * F5	Copy message(s) to folder (with search dialog)
+ * F6	Move message(s) to folder (with search dialog)
  * a:	Select all visible messages
  * A:	Mark all as read (as Google Reader)
  * c:	Compose new message
@@ -76,6 +80,10 @@ class keyboard_shortcuts extends rcube_plugin
         $c .= "<div id='keyboard_shortcuts_help'>";
         $c .= "<div><h4>".$this->gettext("mailboxview")."</h4>";
         $c .= "<div class='shortcut_key'>?</div> ".$this->gettext('help')."<br class='clear' />";
+        $c .= "<div class='shortcut_key'>F3</div> ".$this->gettext('help')."<br class='clear' />";
+        $c .= "<div class='shortcut_key'>F4</div> ".$this->gettext('locate_folder_with_dialog')."<br class='clear' />";
+        $c .= "<div class='shortcut_key'>F5</div> ".$this->gettext('message_copy_contextual')."<br class='clear' />";
+        $c .= "<div class='shortcut_key'>F6</div> ".$this->gettext('message_move_contextual')."<br class='clear' />";
         $c .= "<div class='shortcut_key'>a</div> ".$this->gettext('selectallvisiblemessages')."<br class='clear' />";
         $c .= "<div class='shortcut_key'>A</div> ".$this->gettext('markallvisiblemessagesasread')."<br class='clear' />";
         $c .= "<div class='shortcut_key'>m</div> ".$this->gettext('markselected')."<br class='clear' />";
