@@ -18,5 +18,5 @@ Bug reports through github (https://github.com/metallianfr68/keyboard_shortcuts/
 LICENSE
 -------
 
-This plugin is distributed under the GNU General Public License Version 2.
+This plugin is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3.
 Please read through the file LICENSE for more information about this license.
