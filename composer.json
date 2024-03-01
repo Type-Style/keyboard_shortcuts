@@ -1,5 +1,5 @@
 {
-  "name":"dapphp/keyboard_shortcuts",
+  "name":"MetallianFR68/keyboard_shortcuts",
   "description":"allows some functionality to be handled with the keyboard",
   "license":"GPL-2.0",
   "homepage":"https://github.com/corbosman/keyboard_shortcuts",
@@ -7,15 +7,15 @@
   "version": "3.1",
   "authors": [
           {
-              "name": "Cor Bosman",
-              "email": "cor@roundcu.be",
-              "homepage": "http://underwa.ter.net",
+              "name": "Lionel VEST",
+              "email": "info@cybertron.fr",
+              "homepage": "https://www.cybertron.fr",
               "role": "Developer"
           }
       ],
   "support": {
-          "email": "cor@roundcu.be",
-          "issues": "https://github.com/corbosman/keyboard_shortcuts/issues"
+          "email": "info@cybertron.fr",
+          "issues": "https://github.com/MetallianFR68/keyboard_shortcuts/issues"
       },
     "require": {
         "roundcube/plugin-installer": ">=0.1.7"
