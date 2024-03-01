@@ -80,8 +80,8 @@ class keyboard_shortcuts extends rcube_plugin
         $c .= "<div id='keyboard_shortcuts_help'>";
         $c .= "<div><h4>".$this->gettext("mailboxview")."</h4>";
         $c .= "<div class='shortcut_key'>?</div> ".$this->gettext('help')."<br class='clear' />";
-        $c .= "<div class='shortcut_key'>F3</div> ".$this->gettext('help')."<br class='clear' />";
-        $c .= "<div class='shortcut_key'>F4</div> ".$this->gettext('locate_folder_with_dialog')."<br class='clear' />";
+        $c .= "<div class='shortcut_key'>F3</div> ".$this->gettext('locate_folder_with_dialog')."<br class='clear' />";
+        $c .= "<div class='shortcut_key'>F4</div> ".$this->gettext('create_folder_contextual')."<br class='clear' />";
         $c .= "<div class='shortcut_key'>F5</div> ".$this->gettext('message_copy_contextual')."<br class='clear' />";
         $c .= "<div class='shortcut_key'>F6</div> ".$this->gettext('message_move_contextual')."<br class='clear' />";
         $c .= "<div class='shortcut_key'>a</div> ".$this->gettext('selectallvisiblemessages')."<br class='clear' />";
