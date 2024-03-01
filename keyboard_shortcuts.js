@@ -21,6 +21,7 @@ $(function() {
 
 
   function key_pressed (e) {
+    console.log(e.which)
     // special case. If we hit ctrl-enter, and we're composing, and we have focus, then send email
     if (rcmail.env.action == 'compose' && e.which == 13 && e.ctrlKey && $("*:focus").is("#composebody")) {
       $('.button.send').click();
